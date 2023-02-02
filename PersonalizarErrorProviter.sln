@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PersonalizarErrorProviter", "PersonalizarErrorProviter\PersonalizarErrorProviter.csproj", "{BFF761A6-6FA7-460C-8B39-E6437C17B060}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PruebaErrorProviter", "PruebaErrorProviter\PruebaErrorProviter.csproj", "{81737807-5EB6-4FD1-AC55-0A818224D41C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BFF761A6-6FA7-460C-8B39-E6437C17B060}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BFF761A6-6FA7-460C-8B39-E6437C17B060}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BFF761A6-6FA7-460C-8B39-E6437C17B060}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BFF761A6-6FA7-460C-8B39-E6437C17B060}.Release|Any CPU.Build.0 = Release|Any CPU
+		{81737807-5EB6-4FD1-AC55-0A818224D41C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{81737807-5EB6-4FD1-AC55-0A818224D41C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{81737807-5EB6-4FD1-AC55-0A818224D41C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{81737807-5EB6-4FD1-AC55-0A818224D41C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DD80DFE3-2757-4B09-9AF7-18CFAA090E0A}
+	EndGlobalSection
+EndGlobal
